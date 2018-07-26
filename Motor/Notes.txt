@@ -1,0 +1,2 @@
+This motor model takes into account 0.5mm of wiggle-room (it is 0.5mm bigger than a real motor in the X and Y dimensions)
+We still do not have an accurate idea of how thick (Z dimension) it is
