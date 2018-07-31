@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="42" height="93.5" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:slic3r="http://slic3r.org/namespaces/slic3r">
+  <!-- 
+  Generated using Slic3r 1.2.9
+  http://slic3r.org/
+   -->
+  <g id="layer0" slic3r:z="2.5e-07">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,33.535358 35,39.96464 38.5,39.96464 38.5,33.535358" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,33.535358 24.5,39.96464 28,39.96464 28,33.535358" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,33.535358 14,39.96464 17.5,39.96464 17.5,33.535358" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,33.535358 3.499999,39.96464 7,39.96464 7,33.535358" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,23.035358 3.499999,29.464642 7,29.464642 7,23.035358" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,23.035358 14,29.464642 17.5,29.464642 17.5,23.035358" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,23.035358 24.5,29.464642 28,29.464642 28,23.035358" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,23.035358 35,29.464642 38.5,29.464642 38.5,23.035358" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,12.535356 35,18.964644 38.5,18.964644 38.5,12.535356" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,12.535356 24.5,18.964644 28,18.964644 28,12.535356" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,12.535356 14,18.964644 17.5,18.964644 17.5,12.535356" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,12.535356 3.499999,18.964644 7,18.964644 7,12.535356" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,2.035355 35,8.464644 38.5,8.464644 38.5,2.035355" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,2.035355 24.5,8.464644 28,8.464644 28,2.035355" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,2.035355 14,8.464644 17.5,8.464644 17.5,2.035355" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,2.035355 3.499999,8.464644 7,8.464644 7,2.035355" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,86.95 35,89.55 38.5,89.55 38.5,86.95" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,86.95 14,89.55 17.5,89.55 17.5,86.95" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,86.95 24.5,89.55 28,89.55 28,86.95" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,86.95 3.5,89.55 7,89.55 7,86.95" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,76.45 35,79.05 38.5,79.05 38.5,76.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,76.45 24.5,79.05 28,79.05 28,76.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,76.45 14,79.05 17.5,79.05 17.5,76.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,76.45 3.5,79.05 7,79.05 7,76.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,65.949996 35,68.55 38.5,68.55 38.5,65.949996" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,65.949996 24.5,68.55 28,68.55 28,65.949996" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,65.949996 14,68.55 17.500002,68.55 17.5,66.617 17.5,65.949996" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,65.949996 3.5,68.55 7,68.55 7,65.949996" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,55.45 35,58.05 38.5,58.05 38.5,55.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,55.45 24.5,58.05 28,58.05 28,55.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,55.45 14,58.05 17.5,58.05 17.5,55.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,55.45 3.5,58.05 7,58.05 7,55.45" style="fill: black" />
+  </g>
+  <g id="layer1" slic3r:z="7e-07">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,33.18356 35,40.31644 38.5,40.31644 38.5,33.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,33.18356 24.5,40.31644 28,40.31644 28,33.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,33.18356 14,40.31644 17.5,40.31644 17.5,33.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,33.18356 3.499999,40.31644 7,40.31644 7,33.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,22.68356 3.499999,29.816442 7,29.816442 7,22.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,22.68356 14,29.816442 17.5,29.816442 17.5,22.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,22.68356 24.5,29.816442 28,29.816442 28,22.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,22.68356 35,29.816442 38.5,29.816442 38.5,22.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,12.183558 35,19.316442 38.5,19.316442 38.5,12.183558" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,12.183558 24.5,19.316442 28,19.316442 28,12.183558" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,12.183558 14,19.316442 17.5,19.316442 17.5,12.183558" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,12.183558 3.499999,19.316442 7,19.316442 7,12.183558" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,1.683557 35,8.816443 38.5,8.816443 38.5,1.683557" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,1.683557 24.5,8.816443 28,8.816443 28,1.683557" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,1.683557 14,8.816443 17.5,8.816443 17.5,1.683557" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,1.683557 3.499999,8.816443 7,8.816443 7,1.683557" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,86.95 35,89.55 38.5,89.55 38.5,86.95" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,86.95 14,89.55 17.5,89.55 17.5,86.95" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,86.95 24.5,89.55 28,89.55 28,86.95" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,86.95 3.5,89.55 7,89.55 7,86.95" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,76.45 35,79.05 38.5,79.05 38.5,76.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,76.45 24.5,79.05 28,79.05 28,76.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,76.45 14,79.05 17.5,79.05 17.5,76.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,76.45 3.5,79.05 7,79.05 7,76.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,65.949996 35,68.55 38.5,68.55 38.5,65.949996" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,65.949996 24.5,68.55 28,68.55 28,65.949996" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,65.949996 14,68.55 17.500002,68.55 17.500002,67.817615 17.5,67.742056 17.5,65.949996" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,65.949996 3.5,68.55 7,68.55 7,65.949996" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,55.45 35,58.05 38.5,58.05 38.5,55.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,55.45 24.5,58.05 28,58.05 28,55.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,55.45 14,58.05 17.5,58.05 17.5,55.45" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,55.45 3.5,58.05 7,58.05 7,55.45" style="fill: black" />
+  </g>
+  <g id="layer2" slic3r:z="1.1e-06">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,32.969756 35,40.530248 38.5,40.530248 38.5,32.969756" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,32.969756 24.5,40.530248 28,40.530248 28,32.969756" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,32.969756 14,40.530248 17.5,40.530248 17.5,32.969756" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,32.969756 3.499999,33.285666 3.5,37.377583 3.499999,40.474768 3.499999,40.530248 7,40.530248 7,32.969756" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,22.469754 3.499999,22.785666 3.5,26.877585 3.499999,29.974768 3.499999,30.030246 7,30.030246 7,22.469754" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,22.469754 14,30.030246 17.5,30.030246 17.5,22.469754" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,22.469754 24.5,30.030246 28,30.030246 28,22.469754" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,22.469754 35,30.030246 38.5,30.030246 38.5,22.469754" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,11.969753 35,19.530248 38.5,19.530248 38.5,11.969753" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,11.969753 24.5,19.530248 28,19.530248 28,11.969753" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,11.969753 14,19.530248 17.5,19.530248 17.5,11.969753" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,11.969753 3.499999,12.285666 3.5,16.377588 3.499999,19.474768 3.499999,19.530248 7,19.530248 7,11.969753" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,1.469752 35,9.030247 38.5,9.030247 38.5,1.469752" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,1.469752 24.5,9.030247 28,9.030247 28,1.469752" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,1.469752 14,9.030247 17.5,9.030247 17.5,1.469752" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,1.469752 3.499999,1.785665 3.5,5.877592 3.499999,8.97477 3.499999,9.030247 7,9.030247 7,1.469752" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,86.574048 35,89.925944 38.5,89.925944 38.5,86.574048" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,86.574048 14,89.925944 17.5,89.925944 17.5,86.574048" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,86.574048 24.5,89.925944 28,89.925944 28,86.574048" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,86.574048 3.5,89.925944 7,89.925944 7,86.574048" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,76.074048 35,79.425944 38.5,79.425944 38.5,76.074048" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,76.074048 24.5,79.425944 28,79.425944 28,76.074048" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,76.074048 14,79.425944 17.5,79.425944 17.5,76.074048" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,76.074048 3.5,79.425944 7,79.425944 7,76.074048" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,65.574044 35,68.925952 38.5,68.925952 38.5,65.574044" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,65.574044 24.5,68.925952 28,68.925952 28,65.574044" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,65.574044 14,68.925952 17.5,68.925952 17.5,68.840256 17.500002,68.549999 17.500002,68.341839 17.5,66.891232 17.5,65.574044" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,65.574044 3.5,68.925952 7,68.925952 7,65.574044" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,55.074048 35,58.425956 38.5,58.425956 38.5,55.074048" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,55.074048 24.5,58.425956 28,58.425956 28,55.074048" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,55.074048 14,58.425956 17.5,58.425956 17.5,55.45 17.500002,55.159755 17.500002,55.074048" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,55.074048 3.5,58.425956 7,58.425956 7,55.074048" style="fill: black" />
+  </g>
+  <g id="layer3" slic3r:z="1.5e-06">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,32.78517 35,40.714836 38.5,40.714836 38.5,32.78517" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,32.78517 24.5,40.714836 28,40.714836 28,32.78517" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,32.78517 14,40.714836 17.5,40.714836 17.5,32.78517" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,32.78517 3.499999,33.120264 3.5,38.700151 3.5,40.640451 3.499999,40.714836 7,40.714836 7,32.78517" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,22.28517 3.499999,22.620262 3.5,28.200155 3.5,30.140453 3.499998,30.214832 7,30.214832 7,22.28517" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,22.28517 14,30.214832 17.5,30.214832 17.5,22.28517" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,22.28517 35,30.214832 38.5,30.214832 38.5,22.28517" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,22.28517 24.5,30.214832 28,30.214832 28,22.28517" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,11.785168 35,19.714834 38.5,19.714834 38.5,11.785168" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,11.785168 24.5,19.714834 28,19.714834 28,11.785168" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,11.785168 14,19.714834 17.5,19.714834 17.5,11.785168" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,11.785168 3.499999,12.120262 3.5,17.700159 3.5,19.640453 3.499999,19.714834 7,19.714834 7,11.785168" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,1.285168 35,9.214831 38.5,9.214831 38.5,1.285168" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,1.285168 24.5,9.214831 28,9.214831 28,1.285168" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,1.285168 14,9.214831 17.5,9.214831 17.5,1.285168" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,1.285168 3.499999,1.620262 3.5,7.200162 3.5,9.140455 3.499999,9.214831 7,9.214831 7,1.285168" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,85.847704 35,90.652288 38.5,90.652288 38.5,85.847704" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,85.847704 14,90.652288 17.5,90.652288 17.5,85.847704" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,85.847704 24.5,90.652288 28,90.652288 28,85.847704" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,85.847704 3.5,90.652288 7,90.652288 7,85.847704" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,75.347704 35,80.152288 38.5,80.152288 38.5,75.347704" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,75.347704 24.5,80.152288 28,80.152288 28,75.347704" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,75.347704 14,80.152288 17.5,80.152288 17.5,75.347704" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,75.347704 3.5,80.152288 7,80.152288 7,75.347704" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,64.847712 35,69.652288 38.5,69.652288 38.5,64.847712" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,64.847712 24.5,69.652288 28,69.652288 28,64.847712" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,64.847712 14,69.652288 17.5,69.652288 17.5,69.514688 17.500002,69.018391 17.5,67.132568 17.5,64.847712" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,64.847712 3.5,69.652288 7,69.652288 7,64.847712" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,54.347708 35,59.152292 38.5,59.152292 38.5,54.347708" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,54.347708 24.5,59.152292 28,59.152292 28,54.347708" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,54.347708 14,59.152292 17.5,59.152292 17.5,54.981604 17.500002,54.347708" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,54.347708 3.5,59.152292 7,59.152292 7,54.347708" style="fill: black" />
+  </g>
+  <g id="layer4" slic3r:z="1.9e-06">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,32.663832 35,40.836172 38.5,40.836172 38.5,32.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,32.663832 24.5,40.836172 28,40.836172 28,32.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,32.663832 14,40.836172 17.5,40.836172 17.5,32.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.499999,32.663832 3.499999,32.718805 3.5,32.954859 3.5,40.836172 7,40.836172 7,32.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,22.16383 3.499999,22.218805 3.5,22.454859 3.5,30.33617 7,30.33617 7,22.16383" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,22.16383 14,30.33617 17.5,30.33617 17.5,22.16383" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,22.16383 24.5,30.33617 28,30.33617 28,22.16383" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,22.16383 35,30.33617 38.5,30.33617 38.5,22.16383" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,11.663828 35,19.836172 38.5,19.836172 38.5,11.663828" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,11.663828 24.5,19.836172 28,19.836172 28,11.663828" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,11.663828 14,19.836172 17.5,19.836172 17.5,11.663828" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,11.663828 3.499999,11.718803 3.5,11.954858 3.5,19.836172 7,19.836172 7,11.663828" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,1.163828 35,9.336171 38.5,9.336171 38.5,1.163828" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,1.163828 24.5,9.336171 28,9.336171 28,1.163828" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,1.163828 14,9.336171 17.5,9.336171 17.5,1.163828" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,1.163828 3.499999,1.218803 3.5,1.454858 3.5,9.336171 7,9.336171 7,1.163828" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,85.360312 35,91.13968 38.5,91.13968 38.5,85.360312" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,85.360312 14,91.13968 17.5,91.13968 17.5,85.360312" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,85.360312 24.5,91.13968 28,91.13968 28,85.360312" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,85.360312 3.5,91.13968 7,91.13968 7,85.360312" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,74.860312 35,80.639688 38.5,80.639688 38.5,74.860312" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,74.860312 24.5,80.639688 28,80.639688 28,74.860312" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,74.860312 14,80.639688 17.5,80.639688 17.5,74.860312" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,74.860312 3.5,80.639688 7,80.639688 7,74.860312" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,64.360308 35,70.139688 38.5,70.139688 38.5,64.360308" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,64.360308 24.5,70.139688 28,70.139688 28,64.360308" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,64.360308 3.5,70.139688 7,70.139688 7,64.360308" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,64.360308 14,70.13968 14.627781,70.13968 17.5,70.139688 17.5,64.360308" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,53.860308 35,59.639692 38.5,59.639692 38.5,53.860308" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,53.860308 24.5,59.639692 28,59.639692 28,53.860308" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,53.860308 14,59.639692 17.5,59.639692 17.5,53.860308" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,53.860308 3.5,59.639692 7,59.639692 7,53.860308" style="fill: black" />
+  </g>
+  <g id="layer5" slic3r:z="2.3e-06">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,32.568948 35,40.931056 38.5,40.931056 38.5,32.568948" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,32.568948 24.5,40.931056 28,40.931056 28,32.568948" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,32.568948 14,40.931056 17.5,40.931056 17.5,32.568948" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,32.568948 3.5,40.931056 7,40.931056 7,32.568948" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,22.068944 3.5,30.431054 7,30.431054 7,22.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,22.068944 14,30.431054 17.5,30.431054 17.5,22.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,22.068944 24.5,30.431054 28,30.431054 28,22.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,22.068944 35,30.431054 38.5,30.431054 38.5,22.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,11.568943 35,19.931056 38.5,19.931056 38.5,11.568943" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,11.568943 24.5,19.931056 28,19.931056 28,11.568943" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,11.568943 14,19.931056 17.5,19.931056 17.5,11.568943" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,11.568943 3.5,19.931056 7,19.931056 7,11.568943" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,1.068942 35,9.431057 38.5,9.431057 38.5,1.068942" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,1.068942 24.5,9.431057 28,9.431057 28,1.068942" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,1.068942 14,9.431057 17.5,9.431057 17.5,1.068942" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,1.068942 3.5,9.431057 7,9.431057 7,1.068942" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,84.994328 35,91.505672 38.5,91.505672 38.5,84.994328" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,84.994328 14,91.505672 17.5,91.505672 17.5,84.994328" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,84.994328 24.5,91.505672 28,91.505672 28,84.994328" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,84.994328 3.5,91.505672 7,91.505672 7,84.994328" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,74.494328 35,81.00568 38.5,81.00568 38.5,74.494328" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,74.494328 24.5,81.00568 28,81.00568 28,74.494328" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,74.494328 14,81.00568 17.5,81.00568 17.5,74.494328" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,74.494328 3.5,81.00568 7,81.00568 7,74.494328" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,63.994324 35,70.50568 38.5,70.50568 38.5,63.994324" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,63.994324 24.5,70.50568 28,70.50568 28,63.994324" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,63.994324 14,70.505672 15.841401,70.50568 17.5,70.50568 17.5,63.994324" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,63.994324 3.5,70.50568 7,70.50568 7,63.994324" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,53.494324 35,60.005676 38.5,60.005676 38.5,53.494324" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,53.494324 24.5,60.005676 28,60.005676 28,53.494324" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,53.494324 14,60.005676 17.5,60.005676 17.5,53.494324" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,53.494324 3.5,60.005676 7,60.005676 7,53.494324" style="fill: black" />
+  </g>
+  <g id="layer6" slic3r:z="2.7e-06">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,32.529548 35,40.970452 38.5,40.970452 38.5,32.529548" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,32.529548 24.5,40.970452 28,40.970452 28,32.529548" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,32.529548 14,40.970452 17.5,40.970452 17.5,32.529548" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,32.529548 3.5,40.970452 7,40.970452 7,32.529548" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,22.029548 3.5,30.470452 7,30.470452 7,22.029548" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,22.029548 14,30.470452 17.5,30.470452 17.5,22.029548" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,22.029548 24.5,30.470452 28,30.470452 28,22.029548" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,22.029548 35,30.470452 38.5,30.470452 38.5,22.029548" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,11.529547 35,19.970452 38.5,19.970452 38.5,11.529547" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,11.529547 24.5,19.970452 28,19.970452 28,11.529547" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,11.529547 14,19.970452 17.5,19.970452 17.5,11.529547" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,11.529547 3.5,19.970452 7,19.970452 7,11.529547" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,1.029546 35,9.470453 38.5,9.470453 38.5,1.029546" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,1.029546 24.5,9.470453 28,9.470453 28,1.029546" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,1.029546 14,9.470453 17.5,9.470453 17.5,1.029546" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,1.029546 3.5,9.470453 7,9.470453 7,1.029546" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,84.68356 35,91.816448 38.5,91.816448 38.5,84.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,84.68356 14,91.816448 17.5,91.816448 17.5,84.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,84.68356 24.5,91.816448 28,91.816448 28,84.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,84.68356 3.5,91.816448 7,91.816448 7,84.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,74.18356 35,81.316448 38.5,81.316448 38.5,74.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,74.18356 24.5,81.316448 28,81.316448 28,74.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,74.18356 14,81.316448 17.5,81.316448 17.5,74.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,74.18356 3.5,81.316448 7,81.316448 7,74.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,63.68356 35,70.816448 38.5,70.816448 38.5,63.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,63.68356 24.5,70.816448 28,70.816448 28,63.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,63.68356 14,70.816448 17.5,70.816448 17.5,63.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,63.68356 3.5,70.816448 7,70.816448 7,63.68356" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,53.18356 35,60.31644 38.5,60.31644 38.5,53.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,53.18356 24.5,60.31644 28,60.31644 28,53.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,53.18356 14,60.31644 17.5,60.31644 17.5,53.18356" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,53.18356 3.5,60.31644 7,60.31644 7,53.18356" style="fill: black" />
+  </g>
+  <g id="layer7" slic3r:z="3.1e-06">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,32.50985 35,40.990152 38.5,40.990152 38.5,32.50985" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,32.50985 24.5,40.990152 28,40.990152 28,32.50985" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,32.50985 14,40.990152 17.5,40.990152 17.5,32.50985" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,32.50985 3.5,40.990152 7,40.990152 7,32.50985" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,22.00985 3.5,30.490152 7,30.490152 7,22.00985" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,22.00985 14,30.490152 17.5,30.490152 17.5,22.00985" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,22.00985 24.5,30.490152 28,30.490152 28,22.00985" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,22.00985 35,30.490152 38.5,30.490152 38.5,22.00985" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,11.50985 35,19.99015 38.5,19.99015 38.5,11.50985" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,11.50985 24.5,19.99015 28,19.99015 28,11.50985" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,11.50985 14,19.99015 17.5,19.99015 17.5,11.50985" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,11.50985 3.5,19.99015 7,19.99015 7,11.50985" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,1.009848 35,9.490151 38.5,9.490151 38.5,1.009848" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,1.009848 24.5,9.490151 28,9.490151 28,1.009848" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,1.009848 14,9.490151 17.5,9.490151 17.5,1.009848" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,1.009848 3.5,9.490151 7,9.490151 7,1.009848" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,84.46976 35,92.030248 38.5,92.030248 38.5,84.46976" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,84.46976 14,92.030248 17.5,92.030248 17.5,84.46976" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,84.46976 24.5,92.030248 28,92.030248 28,84.46976" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,84.46976 3.5,92.030248 7,92.030248 7,84.46976" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,73.96976 35,81.530248 38.5,81.530248 38.5,73.96976" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,73.96976 24.5,81.530248 28,81.530248 28,73.96976" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,73.96976 14,81.530248 17.5,81.530248 17.5,73.96976" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,73.96976 3.5,81.530248 7,81.530248 7,73.96976" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,63.469752 35,71.030248 38.5,71.030248 38.5,63.469752" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,63.469752 24.5,71.030248 28,71.030248 28,63.469752" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,63.469752 14,71.030248 17.5,71.030248 17.5,63.469752" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,63.469752 3.5,71.030248 7,71.030248 7,63.469752" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,52.969752 35,60.530248 38.5,60.530248 38.5,52.969752" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,52.969752 24.5,60.530248 28,60.530248 28,52.969752" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,52.969752 14,60.530248 17.5,60.530248 17.5,52.969752" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,52.969752 3.5,60.530248 7,60.530248 7,52.969752" style="fill: black" />
+  </g>
+  <g id="layer8" slic3r:z="3.5e-06">
+    <polygon slic3r:type="contour" points="42,42 0,42 0,0 42,0" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,32.549248 35,40.950752 38.5,40.950752 38.5,32.549248" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,32.549248 24.5,40.950752 28,40.950752 28,32.549248" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,32.549248 14,40.950752 17.5,40.950752 17.5,32.549248" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,32.549248 3.5,40.950752 7,40.950752 7,32.549248" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,22.049248 3.5,30.450754 7,30.450754 7,22.049248" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,22.049248 14,30.450754 17.5,30.450754 17.5,22.049248" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,22.049248 24.5,30.450754 28,30.450754 28,22.049248" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,22.049248 35,30.450754 38.5,30.450754 38.5,22.049248" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,11.549248 35,19.950752 38.5,19.950752 38.5,11.549248" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,11.549248 24.5,19.950752 28,19.950752 28,11.549248" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,11.549248 14,19.950752 17.5,19.950752 17.5,11.549248" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,11.549248 3.5,19.950752 7,19.950752 7,11.549248" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,1.049243 35,9.450752 38.5,9.450752 38.5,1.049243" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,1.049243 24.5,9.450752 28,9.450752 28,1.049243" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,1.049243 14,9.450752 17.5,9.450752 17.5,1.049243" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,1.049243 3.5,9.450752 7,9.450752 7,1.049243" style="fill: black" />
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,84.285176 35,92.214832 38.5,92.214832 38.5,84.285176" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,84.285176 14,92.214832 17.5,92.214832 17.5,84.285176" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,84.285176 24.5,92.214832 28,92.214832 28,84.285176" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,84.285176 3.5,92.214832 7,92.214832 7,84.285176" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,73.785176 35,81.714832 38.5,81.714832 38.5,73.785176" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,73.785176 24.5,81.714832 28,81.714832 28,73.785176" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,73.785176 14,81.714832 17.5,81.714832 17.5,73.785176" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,73.785176 3.5,81.714832 7,81.714832 7,73.785176" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,63.285168 35,71.214832 38.5,71.214832 38.5,63.285168" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,63.285168 24.5,71.214832 28,71.214832 28,63.285168" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,63.285168 14,71.214832 17.5,71.214832 17.5,63.285168" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,63.285168 3.5,71.214832 7,71.214832 7,63.285168" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,52.785168 35,60.714832 38.5,60.714832 38.5,52.785168" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,52.785168 24.5,60.714832 28,60.714832 28,52.785168" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,52.785168 14,60.714832 17.5,60.714832 17.5,52.785168" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,52.785168 3.5,60.714832 7,60.714832 7,52.785168" style="fill: black" />
+  </g>
+  <g id="layer9" slic3r:z="3.9e-06">
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,84.163832 35,92.336168 38.5,92.336168 38.5,84.163832" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,84.163832 3.5,92.336168 7,92.336168 7,84.163832" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,84.163832 14,92.336168 17.5,92.336168 17.5,84.163832" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,84.163832 24.5,92.336168 28,92.336168 28,84.163832" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,73.663832 3.5,81.836168 7,81.836168 7,73.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,73.663832 14,81.836168 17.5,81.836168 17.5,73.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,73.663832 24.5,81.836168 28,81.836168 28,73.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,73.663832 35,81.836168 38.5,81.836168 38.5,73.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,63.163832 35,71.336176 38.5,71.336176 38.5,63.163832" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,63.163832 24.5,71.336176 28,71.336176 28,63.163832" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,63.163832 14,71.336176 17.5,71.336176 17.5,63.163832" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,63.163832 3.5,71.336176 7,71.336176 7,63.163832" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,52.663832 35,60.836172 38.5,60.836172 38.5,52.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,52.663832 24.5,60.836172 28,60.836172 28,52.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,52.663832 14,60.836172 17.5,60.836172 17.5,52.663832" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,52.663832 3.5,60.836172 7,60.836172 7,52.663832" style="fill: black" />
+  </g>
+  <g id="layer10" slic3r:z="4.3e-06">
+    <polygon slic3r:type="contour" points="42,93.5 0,93.5 0,51.5 42,51.5" style="fill: white" />
+    <polygon slic3r:type="hole" points="35,84.068944 35,92.431056 38.5,92.431056 38.5,84.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,84.068944 3.5,92.431056 7,92.431056 7,84.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,84.068944 14,92.431056 17.5,92.431056 17.5,84.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,84.068944 24.5,92.431056 28,92.431056 28,84.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,73.568944 3.5,81.931056 7,81.931056 7,73.568944" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,73.568944 14,81.931056 17.5,81.931056 17.5,73.568944" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,73.568944 24.5,81.931056 28,81.931056 28,73.568944" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,73.568944 35,81.931056 38.5,81.931056 38.5,73.568944" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,63.068944 35,71.431056 38.5,71.431056 38.5,63.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,63.068944 24.5,71.431056 28,71.431056 28,63.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,63.068944 14,71.431056 17.5,71.431056 17.5,63.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,63.068944 3.5,71.431056 7,71.431056 7,63.068944" style="fill: black" />
+    <polygon slic3r:type="hole" points="35,52.568944 35,60.931056 38.5,60.931056 38.5,52.568944" style="fill: black" />
+    <polygon slic3r:type="hole" points="24.5,52.568944 24.5,60.931056 28,60.931056 28,52.568944" style="fill: black" />
+    <polygon slic3r:type="hole" points="14,52.568944 14,60.931056 17.5,60.931056 17.5,52.568944" style="fill: black" />
+    <polygon slic3r:type="hole" points="3.5,52.568944 3.5,60.931056 7,60.931056 7,52.568944" style="fill: black" />
+  </g>
+</svg>
